@@ -341,6 +341,12 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     font-size:1.5em !important;
 }
 
+/*round search and sort by*/
+.right-filters-data .sort-by-f .form-control.custom-select, .right-filters-data .input-group .input-group-addon{
+border-radius:25px !important;
+margin-left:2px !important;
+}
+
 
 /*left button*/
 a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
