@@ -153,7 +153,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 
 /*"Our donors"*/
 .donar-section{
-    background: #353a59;
+    background: #9bc547;
     }
     .fs-partners>div{
         border-top:6px solid #f91c90 !important;
@@ -209,8 +209,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     }
     /*footer*/
     .fs-footer {
-        background: #353a59;
-        border-top: 1px solid #353a59;
+        background: #964e9f;
+        border-top: 1px solid #964e9f;
     }
     .fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
         color:#fff !important;
@@ -336,6 +336,8 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     background:#fff !important;
     border-radius: 25px !important;
     color:#353a59 !important;
+    text-transform: capitalize !important;
+    font-size:1.5em !important;
 }
 
 
