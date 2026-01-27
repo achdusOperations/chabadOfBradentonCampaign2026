@@ -6,9 +6,14 @@
 /*header*/
 /*donate button*/
 .fs-header-top .fs-top-tools .fs-btn{
-    background:#f91c90 !important;
-    border-radius: 25px !important;
-}
+    background:#33aaba !important;
+  border-radius: 25px !important;
+  color:#fff !important;
+  
+  }
+  .fs-header-top .fs-top-tools .fs-btn:hover{
+    background: #9bc547 !important;
+  }
 a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     background:#fff !important;
 }
