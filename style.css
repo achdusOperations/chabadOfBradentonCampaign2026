@@ -346,10 +346,10 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 }
 
 /*round search and sort by*/
-.right-filters-data .sort-by-f .form-control.custom-select,  .right-filters-data .input-group{
+.right-filters-data .sort-by-f .form-control.custom-select,  .right-filters-data .input-group, .right-filters-data .input-group .input-group-addon{
 border-radius:25px !important;
 }
-.right-filters-data .input-group .input-group-addon{
+input.form-control.filter-search.active{
     
 margin-left:2px !important;
 }
