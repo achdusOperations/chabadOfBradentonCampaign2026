@@ -95,14 +95,14 @@ background:#FFF !important ;
     color:#353a59 !important;
 }
 .fs-goal .fs-goal-text .fs-goal-amount,.fs-goal .fs-goal-graph-container .fs-goal-graph-text span{
-    color:#f91c90 !important;
+    color:#9bc547 !important;
 }
 /*goal meter  filled and then not filled*/
 .fs-goal-graph-fill{
-    background: #f91c90 !important;
+    background: #9bc547 !important;
 }
 .fs-goal-graph{
-    background: #353a59 !important;
+    background: #33aaba !important;
 }
 /*center goal*/
 @media (min-width:992px){
