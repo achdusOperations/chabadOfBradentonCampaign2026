@@ -191,8 +191,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     
     /*donation page*/
     .fs-full-donate-form .fs-donate-body .fs-donate-section h3{
-        color:#353a59 !important;
-        font-family: "Sniglet", serif !important;
+        color:#33aaba !important;
+        font-family: "Balsamiq Sans", sans-serif !important;
     }
     
     /*amount boxes and button*/
