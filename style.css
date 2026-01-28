@@ -167,6 +167,11 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     border-radius:25px 25px 0px 0px !important;
 }
 
+/*about rounded*/
+.col-md-8.fs-about.js-about.fs-about-main-body{
+    border-radius:25px !important;
+}
+
 /*"Our donors"*/
 .donar-section{
     background: #9bc547;
