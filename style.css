@@ -121,7 +121,7 @@ background:#FFF !important ;
 
     /*section next to countdown*/
    .fs-donate {
-    background:#353a59;
+    background:#964e9f;
 }
 .fs-countdowndonate .fs-countdown, .fs-countdowndonate .fs-donate{
     border-radius:25px !important;
@@ -129,7 +129,7 @@ background:#FFF !important ;
 
 
 div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
-    fill:#353a59 !important;
+    fill:#964e9f !important;
 }
 
 /*dollar sign*/
@@ -139,7 +139,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
 /*button*/
 .fs-donate .fs-btn, .fs-donate .fs-btn:hover{    
     border-radius: 25px !important;
-    background-color: #fed401 !important;
+    background-color: #fff !important;
+    color:#964e9f !important
 }
 /*main text*/
 .fs-about-text.js-about-text h3{
@@ -202,7 +203,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         border-radius:25px !important;
     }
 
-    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*:hover{
+    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*:hover, #fs-donate-form .fs-btn-donate:hover{
         background-color: #9bc547 !important;
     }
     
