@@ -332,7 +332,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 
 /*donor,teams and about*/
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
-    color: #fff !important;;
+    color: #fff !important;
     
 }
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
@@ -340,7 +340,19 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 }
  /*name of team in donor tag*/
  .team-up span{
-    color:#8392e3 !important;
+    color:#964e9f !important;
+}
+/*flag in donor tag*/
+.donate-members .donates_user .donate-A{
+    background-color: #964e9f !important;
+    
+}
+.donate-members .donates_user .donate-A .donate-triangle{
+   border-right: 26px solid #964e9f !important;
+}
+/*name of donator in donor tag*/
+.donate-members .donates_user .left_userd .user-name{
+    color:#964e9f !important;
 }
  /*be the first button*/
 #temporaryDonateButton{
