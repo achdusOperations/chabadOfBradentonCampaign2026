@@ -456,6 +456,13 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
 #profile > div > div.row.js-team-detail-section > div > div > div > div.left_userd > h2{
     color:#33aaba !important;
 }
+/*flag*/
+#profile > div > div.row.js-team-detail-section > div > div > div > div.donate-A{
+    background: #33aaba !important;
+}
+#profile > div > div.row.js-team-detail-section > div > div > div > div.donate-A > div{
+    border-right:26px solid #33aaba !important
+}
 
 
 
