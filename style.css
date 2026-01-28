@@ -212,7 +212,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
     }
     /*footer*/
     .fs-footer {
-        background: #964e9f !important;
+        background: #964e9f;
         background-image: url("https://chabadofbradenton.com/media/images/1355/Jvic13556502.png");
         background-size:100% 100%;
         }
