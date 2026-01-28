@@ -373,8 +373,12 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 }
 
 
-/*team page*/
+/*when pressing team*/
 
+/*team's name*/
+.team-members .team-users .user-name, .team-members .team-users .user-name a{
+    color:#33aaba !important;
+}
 /*left button*/
 a.view-btn.btn.js-team-detail {
     background:#33aaba !important;
@@ -401,7 +405,10 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
 .progress-flex .progress{
     background: #33aaba !important;
 }
-
+/*0%, 1...*/
+.team-members .team-users .donor-team span, .progress-flex .S-label span{
+    color:#9bc547 !important;
+}
 
 
 /*team page*/
@@ -410,7 +417,10 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
 
 .donate-now{
     border-radius: 25px !important;
-    background: #f91c90 !important;
+    background: #33aaba !important;
+}
+.donate-now:hover{
+    background: #9bc547 !important;
 }
 /*checkmark*/
 .progress-flex .check-mark{
