@@ -34,13 +34,13 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
 /*hero image*/
 .fs-header:before {
     background-image: 
-   url("https://chabadofbradenton.com/media/images/1355/ropV13555573.png");
+   url("https://chabadofbradenton.com/media/images/1355/Lqib13556508.png");
    background-size:100% 100%;
    }
    @media screen and (max-width: 700px) {
    .fs-header:before {
     background-image: 
-   url("https://chabadofbradenton.com/media/images/1355/Lqib13556508.png");
+   url("https://chabadofbradenton.com/media/images/1355/pnxf13556503.png");
    background-size:100% 100%;
    }
    }
@@ -338,6 +338,15 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
 .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
     border-bottom: 3px solid #fff !important;
 }
+
+/*round search and sort by*/
+.right-filters-data .sort-by-f .form-control.custom-select,  .right-filters-data .input-group, .right-filters-data .input-group .input-group-addon{
+    border-radius:25px !important;
+    }
+    input.form-control.filter-search.active{
+        
+    margin-left:2px !important;
+    }
  /*name of team in donor tag*/
  .team-up span{
     color:#964e9f !important;
@@ -363,34 +372,34 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     font-size:1.5em !important;
 }
 
-/*round search and sort by*/
-.right-filters-data .sort-by-f .form-control.custom-select,  .right-filters-data .input-group, .right-filters-data .input-group .input-group-addon{
-border-radius:25px !important;
-}
-input.form-control.filter-search.active{
-    
-margin-left:2px !important;
-}
+
+/*team page*/
 
 /*left button*/
-a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
-    background:#353a59 !important;
+a.view-btn.btn.js-team-detail {
+    background:#33aaba !important;
     border-radius: 25px !important;
     color:#fff !important;
 }
+a.view-btn.btn.js-team-detail:hover{
+    background:#9bc547 !important
+}
 /*right button*/
-a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
-    background:#353a59 !important;
+a.view-btn.btn.donate-btns.js-team-open-donate.common-donate{
+    background:#33aaba !important;
     border-radius: 25px !important;
     color:#fff !important;
+}
+a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
+    background:#9bc547 !important;
 }
 /*filler filled and not filled*/
 .progress-flex .progress .progress-bar{
-    background: #27365b !important;
+    background: #9bc547 !important;
 }
 
 .progress-flex .progress{
-    background: #f91c90 !important;
+    background: #33aaba !important;
 }
 
 
