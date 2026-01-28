@@ -432,7 +432,6 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
     color:#33aaba !important
 }
 /*button*/
-
 .donate-now{
     border-radius: 25px !important;
     background: #33aaba !important;
@@ -442,8 +441,24 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
 }
 /*checkmark*/
 .progress-flex .check-mark{
-color:#9bc547 !important;
+    color:#9bc547 !important;
+    }
+/*button down*/
+
+.team-donate-btn{
+    border-radius: 25px !important;
+    background: #33aaba !important;
 }
+.team-donate-btn:hover{
+    background: #9bc547 !important;
+}
+/*donor's name*/
+#profile > div > div.row.js-team-detail-section > div > div > div > div.left_userd > h2{
+    color:#33aaba !important;
+}
+
+
+
 
 
     
