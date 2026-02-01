@@ -31,7 +31,7 @@ h1 *,h2 *, h3 *,.fs-about em, .fs-footer *,.fs-countdown h3 strong,    .fs-count
     font-family: "Balsamiq Sans", sans-serif !important;
 }
 
-/*hero image*/
+/*hero image  362*3000 for desktop 1000*1180 for mobiles */
 .fs-header:before {
     background-image: 
    url("https://chabadofbradenton.com/media/images/1355/Lqib13556508.png");
@@ -269,7 +269,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         }
     }
     /*if there are no matchers*/
-    .fs-matchers .fs-matcher .fs-matcher-image{
+    /*.fs-matchers .fs-matcher .fs-matcher-image{
    display:none !important;
     }
     .fs-matchers .fs-matcher .fs-matcher-title{
@@ -282,13 +282,13 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     /*if there are matchers*/
 
     /*section*/
-  /*  .fs-matchers{
+   .fs-matchers{
         background:#FFF !important;
         border-bottom: none !important;
     }
 
     /*"Every $=*/
-   /* .fs-matchers .fs-matchers-intro strong{
+    .fs-matchers .fs-matchers-intro strong{
         color:#fe3f38 !important;
         font-style:italic !important;
     }
@@ -297,7 +297,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         font-style: italic !important;
     }
 /*circle*/
-   /* .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
+    .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
         box-shadow:inset 0 0 0 2px #fe3f38 !important;
     }
    
@@ -312,7 +312,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         font-weight: bold !important;
     }
        /*donors buttons on separate lines. width is 100% divided by amount of matching categories (if more than 4 do 33%)*/
-     /*  .fs-matchers .fs-matcher  {
+       .fs-matchers .fs-matcher  {
         width:33%;
         padding-left:0px !important;
         padding-right:0px !important;
