@@ -250,10 +250,7 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         width:100%;
     }
 
-    /*hide the triple of matching*/
-h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
-    display:none !important;
-}
+
     /*matchers even if there aren't any*/
     .container-fluid.fs-matchers{
         background:#FFF !important;
@@ -287,6 +284,8 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         border-bottom: none !important;
     }
 
+
+
     /*"Every $=*/
     .fs-matchers .fs-matchers-intro strong{
         color:#964e9f !important;
@@ -298,7 +297,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
     }
 /*circle*/
     .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-ratio::after{
-        box-shadow:inset 0 0 0 2px #964e9f !important;
+        box-shadow:inset 0 0 0 2px #fff !important;
     }
    
    
