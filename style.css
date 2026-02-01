@@ -250,6 +250,11 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
         width:100%;
     }
 
+     /*hide the triple of matching*/
+h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
+    display:none !important;
+}
+
 
     /*matchers even if there aren't any*/
     .container-fluid.fs-matchers{
@@ -265,6 +270,8 @@ div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > 
             border-bottom: #FFF !important;
         }
     }
+
+    
     /*if there are no matchers*/
     /*.fs-matchers .fs-matcher .fs-matcher-image{
    display:none !important;
