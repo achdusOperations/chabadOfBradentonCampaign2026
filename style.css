@@ -317,7 +317,7 @@ h3.fs-matchers-intro.text-center.js-viewport-in.a-delay-100ms{
         font-size: 16px !important;
         font-weight: bold !important;
     }
-       /*donors buttons on separate lines. width is 100% divided by amount of matching categories (if more than 4 do 33%)*/
+       /*donors buttons on separate lines. width is 100% divided by amount of matching categories (if more than 4 do 33%). in chabadone between matchers write </br>*/
        .fs-matchers .fs-matcher  {
         width:33%;
         padding-left:0px !important;
