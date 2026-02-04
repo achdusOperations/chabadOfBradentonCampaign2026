@@ -475,7 +475,7 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
     border-right:26px solid #33aaba !important
 }
 
-/*donation add spaces between types*/
+/*donation, payment in formation in other make space between different types*/
 #CustomPaymentMessage> .form-group.col-sm-12::before{
     content:"If you would prefer, here are some other methods to donate towards our campaign.\A Cashapp: $Chabadofbradenton \A Zelle: 941-284-6390 \A Venmo: @ \A We will be sure to apply your donation towards our campaign goal!";
     white-space:pre;
