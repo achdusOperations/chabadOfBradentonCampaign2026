@@ -484,6 +484,10 @@ a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
 #CustomPaymentMessage> .form-group.col-sm-12{
     visibility: hidden !important;
 }
+/*bonus round*/
+.fs-bonus-badge{
+    display:none !important;
+}
 
 
 
